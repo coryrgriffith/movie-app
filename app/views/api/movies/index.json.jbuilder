@@ -1,0 +1,5 @@
+json.title @movie['Title']
+json.year @movie['Year']
+json.rated @movie['Rated']
+json.released @movie['Released']
+json.plot @movie['Plot']
